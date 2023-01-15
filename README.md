@@ -1,5 +1,5 @@
 # HiddenSlider
 </br>
-# Learned how to use basic HTML, JavaScript & CSS to demonstrate a few public source images that represent my interests.
+<h1> With basic HTML, JavaScript & CSS </h1>
 <br>
-Feel Free to use this code to edit & add your own images for a great introduction template.
+Feel Free to use this code to edit & add your own public source images to create & demonstrate an introduction template.
